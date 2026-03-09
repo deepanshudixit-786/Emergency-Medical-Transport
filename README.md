@@ -1,42 +1,63 @@
 # Emergency Medical Transport (EMT)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-Web%20Technology-blue?style=for-the-badge)
-![Oracle](https://img.shields.io/badge/Database-Oracle-red?style=for-the-badge&logo=oracle)
-![Tomcat](https://img.shields.io/badge/Server-Apache%20Tomcat-yellow?style=for-the-badge&logo=apachetomcat)
-![IDE](https://img.shields.io/badge/IDE-Eclipse-purple?style=for-the-badge)
+## Project Overview
 
-## Project Description
-Emergency Medical Transport (EMT) is a Java-based web application designed to manage ambulance services and emergency medical transportation efficiently. The system helps hospitals and ambulance service providers coordinate patient transport and manage staff and doctors.
+Emergency Medical Transport (EMT) is a web-based application developed using Java technologies to manage ambulance services and emergency patient transportation. The system helps hospitals and ambulance service providers efficiently coordinate medical transport services and manage staff such as doctors and medical personnel.
+
+This project is designed to improve response time in medical emergencies and provide a centralized platform for managing hospital transport operations.
+
+---
 
 ## Technologies Used
-- Java
-- JSP
-- Servlets
-- Oracle Database
-- HTML
-- CSS
-- Apache Tomcat
-- Eclipse IDE
 
-## Features
-- Doctor Management
-- Staff Management
-- Ambulance Service Handling
-- Emergency Patient Transport
-- Database Integration with Oracle
-- Web-based interface for hospital operations
+* Java
+* JSP (Java Server Pages)
+* Servlets
+* Oracle Database
+* HTML
+* CSS
+* Apache Tomcat Server
+* Eclipse IDE
+
+---
+
+## Key Features
+
+* Doctor Management System
+* Staff Management System
+* Ambulance Service Management
+* Emergency Patient Transport Handling
+* Oracle Database Integration
+* Web-based interface for hospital operations
+
+---
+
+## Project Modules
+
+1. Doctor Management – Add, update and manage doctor details.
+2. Staff Management – Manage hospital staff information.
+3. Ambulance Service – Maintain ambulance availability and service details.
+4. Emergency Transport – Handle emergency patient transportation requests.
+
+---
 
 ## Project Structure
-src/  
-WebContent/  
-WEB-INF/  
-database/
+
+* **src** – Contains Java source files and backend logic.
+* **WebContent** – Contains JSP pages, HTML files, CSS and web resources.
+* **WEB-INF** – Contains configuration files and deployment settings.
+* **database** – Contains Oracle database scripts and table structure.
+
+---
 
 ## Purpose of the Project
-The aim of this project is to provide a centralized platform for managing ambulance services and emergency transportation in hospitals. It helps improve response time and manage medical resources efficiently.
+
+The main objective of this project is to develop a system that helps hospitals manage ambulance services efficiently. It provides a centralized platform for handling emergency transportation requests, managing doctors and staff, and improving hospital service management.
+
+---
 
 ## Author
-Deepanshu Dixit  
-BCA Student – IGNOU  
+
+Deepanshu Dixit
+BCA Student – IGNOU
 India
