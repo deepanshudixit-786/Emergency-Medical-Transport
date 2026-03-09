@@ -7,6 +7,7 @@
 ![Tomcat](https://img.shields.io/badge/Server-Apache%20Tomcat-yellow?style=for-the-badge&logo=apachetomcat)
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
+![Eclipse](https://img.shields.io/badge/IDE-Eclipse-purple?style=for-the-badge&logo=eclipseide)
 ## Project Overview
 
 Emergency Medical Transport (EMT) is a web-based application developed using Java technologies to manage ambulance services and emergency patient transportation. The system helps hospitals and ambulance service providers efficiently coordinate medical transport services and manage staff such as doctors and medical personnel.
