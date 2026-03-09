@@ -41,12 +41,28 @@ This project is designed to improve response time in medical emergencies and pro
 
 ---
 
+## Project Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Doctor Management
+
+![Doctor Module](screenshots/doctor.png)
+
+### Staff Management
+
+![Staff Module](screenshots/staff.png)
+
+---
+
 ## Project Structure
 
-* **src** – Contains Java source files and backend logic.
-* **WebContent** – Contains JSP pages, HTML files, CSS and web resources.
-* **WEB-INF** – Contains configuration files and deployment settings.
-* **database** – Contains Oracle database scripts and table structure.
+* src – Contains Java source files and backend logic.
+* WebContent – Contains JSP pages, HTML files, CSS and web resources.
+* WEB-INF – Contains configuration files and deployment settings.
+* database – Contains Oracle database scripts and table structure.
 
 ---
 
