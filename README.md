@@ -4,7 +4,7 @@
 
 Emergency Medical Transport (EMT) is a web-based application developed using Java technologies to manage ambulance services and emergency patient transportation. The system helps hospitals and ambulance service providers efficiently coordinate medical transport services and manage staff such as doctors and medical personnel.
 
-This project is designed to improve response time in medical emergencies and provide a centralized platform for managing hospital transport operations.
+This project improves response time during medical emergencies and provides a centralized platform for managing ambulance operations.
 
 ---
 
@@ -16,59 +16,58 @@ This project is designed to improve response time in medical emergencies and pro
 * Oracle Database
 * HTML
 * CSS
-* Apache Tomcat Server
+* Apache Tomcat
 * Eclipse IDE
 
 ---
 
-## Key Features
+## Features
 
-* Doctor Management System
-* Staff Management System
-* Ambulance Service Management
-* Emergency Patient Transport Handling
-* Oracle Database Integration
-* Web-based interface for hospital operations
-
----
-
-## Project Modules
-
-1. Doctor Management – Add, update and manage doctor details.
-2. Staff Management – Manage hospital staff information.
-3. Ambulance Service – Maintain ambulance availability and service details.
-4. Emergency Transport – Handle emergency patient transportation requests.
+* Doctor Management
+* Staff Management
+* Ambulance Service Handling
+* Emergency Patient Transport
+* Database Integration with Oracle
+* Web-based hospital interface
 
 ---
 
 ## Project Screenshots
 
-### Home Page
+### Login Page
 
-![Home Page](screenshots/home.png)
+![Login Page](screenshots/login.png)
 
-### Doctor Management
+### Dashboard
 
-![Doctor Module](screenshots/doctor.png)
+![Dashboard](screenshots/dashboard.png)
 
-### Staff Management
+### Ambulance List
 
-![Staff Module](screenshots/staff.png)
+![Ambulance List](screenshots/ambulance-list.png)
+
+### Booking Form
+
+![Booking Form](screenshots/booking-form.png)
+
+### Staff Profile
+
+![Staff Profile](screenshots/staff-profile.png)
 
 ---
 
 ## Project Structure
 
-* src – Contains Java source files and backend logic.
-* WebContent – Contains JSP pages, HTML files, CSS and web resources.
-* WEB-INF – Contains configuration files and deployment settings.
-* database – Contains Oracle database scripts and table structure.
+* src – Java source files
+* WebContent – JSP pages and web resources
+* WEB-INF – Configuration files
+* database – Oracle database scripts
 
 ---
 
 ## Purpose of the Project
 
-The main objective of this project is to develop a system that helps hospitals manage ambulance services efficiently. It provides a centralized platform for handling emergency transportation requests, managing doctors and staff, and improving hospital service management.
+The aim of this project is to develop a centralized system that helps hospitals manage ambulance services and emergency transportation efficiently.
 
 ---
 
